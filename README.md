@@ -1,6 +1,6 @@
 ## Hello, welcome! 👋 My name is Diogo Gallina, I'm a systems development student and this is my Github!
 
->### I'm looking for new challenges to evolve in the world of programming.
+>### I'm looking for new challenges to evolve in the world of programming!🪐⭐
 
 ##
 
@@ -10,10 +10,10 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-gallina&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
-
-
 <div align="center" ><br/>
+    <p style="color: black; font-size: 21px; font-weight: bold">
+    Linguagens que estou Aprendendo:
+    </p>
     <a href="https://github.com/Diogo-gallina">
         <img height="40px" width="50px" alt="Diogo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
         <img  height="40px" width="50px" alt="Diogo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -22,30 +22,16 @@
     </a>
 </div>
 
-
 ## 
+
 <div>
     <a href="https://www.linkedin.com/in/diogo-gallina-204862231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:diogogallina20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 </div>
 
 ##
 
 ![snake gif](https://github.com/Diogo-gallina/Diogo-gallina/blob/output/github-contribution-grid-snake.svg)
-
-##
-          
-### **Linguagens que estou Aprendendo:**
-<div style="display: inline-block">
-    <img  align="center" height="25px" width="40px" alt="Diogo-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img  align="center" height="25px" width="50px" alt="Diogo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align="center" height="40px" width="50px" alt="Diogo-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" height="40px" width="50px" alt="Diogo-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
- 
- ##
- 
 
 
 <!--
