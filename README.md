@@ -1,12 +1,13 @@
-## Bem-vindo(a), Meu nome é Diogo Gallina, sou estudante de Desenvolvimento de sistemas.
+## Hello, welcome! 👋 My name is Diogo Gallina, I'm a systems development student and this is my Github!
 
->### Estou em busca de novos desafios para evoluir no mundo da programação.
+>### I'm looking for new challenges to evolve in the world of programming.
 
 ##
 
 <div align="center">
-         <img height="180em" alt="html5" src="https://github-readme-stats.vercel.app/api?username=Diogo-gallina&theme=midnight-purple" />
-         <img height="180em" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-gallina&layout=compact&langs_count=4&theme=radical&locale=pt-br"/>
+         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogo-gallina&show_icons=true&theme=radical"/>
+         <a href="https://github.com/Diogo-gallina">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-gallina&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
@@ -21,9 +22,17 @@
     </a>
 </div>
 
-## 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diogo-gallina-204862231/)
+## 
+<div>
+    <a href="https://www.linkedin.com/in/diogo-gallina-204862231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:diogogallina20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
+
+##
+
+![snake gif](https://github.com/Diogo-gallina/Diogo-gallina/blob/output/github-contribution-grid-snake.svg)
 
 ##
           
@@ -37,10 +46,7 @@
  
  ##
  
-<div align="center">
-    <h1>Visitantes</h1>
-    <img align="center" src="https://profile-counter.glitch.me/{Diogo-gallina}/count.svg"/>
-</div>
+
 
 <!--
 **Diogo-gallina/Diogo-gallina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
