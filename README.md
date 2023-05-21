@@ -11,8 +11,8 @@
 </div>
 
 <div align="center" ><br/>
-    <p style="color: black; font-size: 21px; font-weight: bold">
-    Linguagens que estou Aprendendo:
+    <p style="color: black; font-size: 30px; font-weight: bold">
+Languages ​​I'm learning:
     </p>
     <a href="https://github.com/Diogo-gallina">
         <img height="40px" width="50px" alt="Diogo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
