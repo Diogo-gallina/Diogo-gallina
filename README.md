@@ -10,10 +10,9 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-gallina&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+##
+         
 <div align="center" ><br/>
-    <p>
-    <a>Languages ​​I'm learning:</a>
-    </p>
     <a href="https://github.com/Diogo-gallina">
         <img height="40px" width="50px" alt="Diogo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
         <img  height="40px" width="50px" alt="Diogo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -33,7 +32,7 @@
 
 ##
 
-![snake gif](https://github.com/Diogo-gallina/Diogo-gallina/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
