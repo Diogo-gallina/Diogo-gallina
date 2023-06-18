@@ -7,7 +7,7 @@
 <div align="center">
          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogo-gallina&show_icons=true&theme=radical"/>
          <a href="https://github.com/Diogo-gallina">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-gallina&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-gallina&langs_count=10&count_private=true&theme=radical&layout=compact"/>
 </div>
 
 ##
