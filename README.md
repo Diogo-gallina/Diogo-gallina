@@ -14,10 +14,11 @@
          
 <div align="center" ><br/>
     <a href="https://github.com/Diogo-gallina">
-        <img height="40px" width="50px" alt="Diogo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-        <img  height="40px" width="50px" alt="Diogo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-        <img height="40px" width="50px" alt="Diogo-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img  height="40px" width="50px" alt="Diogo-Ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+         <img height="40px" width="50px" alt="Diogo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+         <img  height="40px" width="50px" alt="Diogo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+         <img height="40px" width="50px" alt="Diogo-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+         <img height="40px" width="50px" alt="Diogo-NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+         <img  height="40px" width="50px" alt="Diogo-Ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
          <img  height="40px" width="50px" alt="Diogo-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
          <img  height="40px" width="50px" alt="Diogo-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
          <img  height="40px" width="50px" alt="Diogo-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
