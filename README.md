@@ -1,6 +1,6 @@
 ## Hello, welcome! 👋 My name is Diogo Gallina, I'm a systems development student and this is my Github!
 
->### I'm looking for new challenges to evolve in the world of programming!🪐⭐
+>### I'm looking for new challenges to evolve in the world of programming!🪐✨
 
 ##
 
