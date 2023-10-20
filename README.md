@@ -19,7 +19,7 @@
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,java,cs,python,nest,postgres,sqlite,jest,vite,prisma,heroku)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,java,cs,python,nest,postgres,sqlite,jest,go,prisma,heroku)](https://skillicons.dev)
 
 
 ## 
