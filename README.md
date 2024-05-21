@@ -11,15 +11,22 @@
 </div>
 
 ##
-         
-- Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=azure,docker,postman,git,githubactions,linux,eclipse,babel,gitlab,stackoverflow,vscode,kafka,visualstudio,aws,heroku)](https://skillicons.dev)
+- Languages
 
-
+[![Minhas Habilidades](https://skillicons.dev/icons?i=typescript,java,cs,python,javascript,go)](https://skillicons.dev)
+  
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,java,spring,hibernate,cs,python,go,nest,postgres,sqlite,mysql,jest,prisma)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,nest,spring,hibernate,dotnet,selenium,kafka,jest,vitest,prisma)](https://skillicons.dev)
+
+- Databases
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongo)](https://skillicons.dev)
+
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,docker,terraform,grafana,git,githubactions,linux,gitlab,heroku)](https://skillicons.dev)
 
 [![Diogo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diogo-gallina&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -37,7 +44,7 @@
 <br>
 <div align="center">  
 
-
+Professional
 
 
 
