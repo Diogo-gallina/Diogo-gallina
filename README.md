@@ -28,8 +28,9 @@
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,docker,terraform,grafana,git,githubactions,linux,gitlab,heroku)](https://skillicons.dev)
 
+<!--
 [![Diogo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diogo-gallina&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 
 <div align="center">  
   
@@ -43,9 +44,6 @@
 
 <br>
 <div align="center">  
-
-Professional
-
 
 
 <!--
