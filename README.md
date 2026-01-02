@@ -14,7 +14,7 @@
 
 - Languages
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=typescript,java,cs,python,javascript,go)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=typescript,java,python,javascript)](https://skillicons.dev)
   
 - Back-End
 
